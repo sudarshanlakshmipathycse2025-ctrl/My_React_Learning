@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #27292c;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    padding-top: 50px;
+}
+
+.react-logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 15px;
+}
